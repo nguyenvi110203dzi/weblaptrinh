@@ -72,5 +72,8 @@ foreach ($cart23 as $item) {
     <td></td>
 </tr>
 </table>
+<?php
+echo "mia mai"
+?>
 </body>
 </html>
