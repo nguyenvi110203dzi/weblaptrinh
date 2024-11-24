@@ -73,7 +73,7 @@ foreach ($cart23 as $item) {
 </tr>
 </table>
 <?php
-echo "mia mai"
+echo "mia mai + 123123"
 ?>
 </body>
 </html>
